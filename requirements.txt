@@ -1,0 +1,23 @@
+# Core
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+
+# Apify (Web scraping & audits)
+apify-client>=1.6.0
+
+# AI / LLM (LangChain)
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+openai>=1.30.0
+
+# Data handling
+pandas>=2.2.0
+openpyxl>=3.1.2
+
+# UI
+streamlit>=1.36.0
+
+# Utilities
+tldextract>=5.1.2
