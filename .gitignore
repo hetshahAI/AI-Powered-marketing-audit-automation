@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+reports/
+data/
+# Reports & outputs
+reports/
+audit_data.xlsx
+
+# Streamlit cache
+.streamlit/
