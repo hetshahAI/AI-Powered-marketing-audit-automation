@@ -1,5 +1,5 @@
 
-#🚀 Marketing Audit Automation Platform (AI-Powered)
+## 🚀 Marketing Audit Automation Platform (AI-Powered)
 
 **A production-grade AI system that audits any website’s digital marketing presence and generates actionable business intelligence.**
 
